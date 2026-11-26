@@ -16,3 +16,7 @@ function checkCount(){
 
     }
 }
+function reset(){
+    count=0;
+    displayCount();
+}
